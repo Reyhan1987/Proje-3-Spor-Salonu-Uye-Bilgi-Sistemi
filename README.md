@@ -4,6 +4,8 @@
 
 https://www.youtube.com/watch?v=HtjrfjrfxAM
 
+"C:\Users\User\OneDrive\Desktop\pythonprojeler\dist\uye_sistemi.json"
+
 Üye ekleme, arama, silme, listeleme
 
 <img width="464" height="328" alt="Ekran görüntüsü 2025-08-21 143354" src="https://github.com/user-attachments/assets/68c4d848-b05b-44d9-b0ae-56de331a36c6" />
